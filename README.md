@@ -10,3 +10,6 @@ Libraries used:
 - elevenlabs (text-to-speech)
 - asyncio (asynchronous execution)
 - dotenv (read .env files)
+
+- Remember to create the .env and must have to include the API_KEY
+- You can use API_KEY = 'your API_KEY'
